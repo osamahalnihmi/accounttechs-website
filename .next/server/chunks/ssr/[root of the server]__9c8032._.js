@@ -29,7 +29,7 @@ function Providers({ children }) {
         children: children
     }, void 0, false, {
         fileName: "[project]/app/providers.tsx",
-        lineNumber: 10,
+        lineNumber: 6,
         columnNumber: 5
     }, this);
 }
