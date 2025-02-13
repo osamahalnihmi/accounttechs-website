@@ -12,6 +12,12 @@ export default function OdooModulesSection() {
         image: 'https://apps.odoocdn.com/apps/assets/18.0/at_custom_pos_receipt/img_2.png?60bab8c',
         link: 'https://apps.odoo.com/apps/modules/18.0/at_custom_pos_receipt',
       },
+      {
+        name: 'AT Multi POS Order Types',
+        description: 'Create Type of POS Order - Enable/Disable Type of POS Order - Select Type of POS Order in POS Screen - Selected Type of POS Order Displayed in Receipt',
+        image: 'https://apps.odoo.com/apps/module_image?image_id=20875450&unique=bd6a1ffa06dcb6b9b53b20a21df8aa61a315e5b1',
+        link: 'https://apps.odoo.com/apps/modules/18.0/at_pos_order_types',
+      },
       // Add more modules here
     ];
   
